@@ -80,13 +80,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Ruibo Wang, Engineer"
   avatar           : "profile.png"
   bio              : "I focus on cross-validation, sampling techniques, and natural language processing tasks."
-  location         : "Location"
+  location         : "Taiyuan, China"
   employer         :
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
+  googlescholar    : "http://scholar.google.com/citations?user=WlMCW88AAAAJ&hl=zh-CN"
+  email            : "wangruibo@sxu.edu.cn"
   uri              :
   bitbucket        :
   codepen          :
