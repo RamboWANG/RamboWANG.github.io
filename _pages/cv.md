@@ -21,7 +21,7 @@ Work experience
   * Network Center of Shanxi University
   * Duties included: operational maintenance of data center  
 
-* From 2014/12 to : Engineer
+* From 2014/12 to Now: Engineer
   * High Performance Computing (HPC) Platform of Shanxi University
   * Duties included: operational maintenance of HPC Platform  
   
