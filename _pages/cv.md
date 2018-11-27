@@ -38,6 +38,7 @@ Skills
 * Parallel Computation Operation
   * Rmpi, Snow, and etc.
   * Cuda
+  
 Publications
 ======
   <ul>{% for post in site.publications %}
