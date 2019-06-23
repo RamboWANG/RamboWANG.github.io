@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-My research interests include three parts:
+I mainly focus on three research directions:
 
-1. Statistical natrual language processing, including syntactic parsing, semantic parsing, comparison of NLP models and etc.
+1. Statistical natural language processing, including syntactic parsing, semantic parsing, comparison of NLP models and etc.
 
 2. Statistical resampling and sub-sampling techniques, contributing to develop regularized sampling methods and investigate their theoretical properties in machine learning domain.
 
