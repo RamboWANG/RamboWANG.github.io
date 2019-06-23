@@ -11,19 +11,21 @@ redirect_from:
 
 Education
 ======
-* B.S. in School of Mathematic and Computer Science, Shanxi Normal University, 2006
-* M.S. in School of Computer & Information Technology, Shanxi University University, 2009
 * Ph.D in School of Computer & Information Technology, Shanxi University, 2019
+* M.S. in School of Computer & Information Technology, Shanxi University University, 2009
+* B.S. in School of Mathematic and Computer Science, Shanxi Normal University, 2006
 
 Work experience
 ======
+* From 2014/12 to Now: Engineer
+  * High Performance Computing (HPC) Platform of Shanxi University
+  * Duties included: operational maintenance of HPC Platform  
+
+
 * From 2009/07 to 2014/12: Engineer Assistant
   * Network Center of Shanxi University
   * Duties included: operational maintenance of data center  
 
-* From 2014/12 to Now: Engineer
-  * High Performance Computing (HPC) Platform of Shanxi University
-  * Duties included: operational maintenance of HPC Platform  
   
 Skills
 ======
