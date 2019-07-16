@@ -63,6 +63,10 @@ Journal Reviwer
 ======
 IEEE Transactions on Neural Networks and Learning Systems (TNNLS)
 
+Project
+======
+PI, National Natural Science Founding, "Regularized cross-validation method for model comparison on text data sets", 2019-2021
+
 Service and leadership
 ======
 * None
