@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Group homepage: http://se.sxu.edu.cn/kxyj/kytd/86243.htm
+Group homepage: <http://se.sxu.edu.cn/kxyj/kytd/86243.htm>
 
 I mainly focus on three research directions:
 
