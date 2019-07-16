@@ -59,6 +59,10 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
+Journal Reviwer
+======
+IEEE Transactions on Neural Networks and Learning Systems (TNNLS)
+
 Service and leadership
 ======
 * None
