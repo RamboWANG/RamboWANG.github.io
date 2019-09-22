@@ -8,7 +8,7 @@ date: 2019-09-01
 location: "Taiyuan, China"
 ---
 
-In this course, I introduce basic principles of statistical machine learning for junior students of school of software engineering.
+In this course, I introduce basic principles of statistical machine learning for junior students of school of software.
 The course consists of 32 lessons. 2 lessons are teached in a week. The entire course consumes 16 weeks.
 
 Lesson 1: Introduction to statistical learning 
