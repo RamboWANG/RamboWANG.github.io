@@ -9,7 +9,7 @@ location: "Taiyuan, China"
 ---
 
 In this course, I introduce basic principles of statistical machine learning for junior students of school of software.
-The course consists of 32 lessons. 2 lessons are teached in a week. The entire course consumes 16 weeks. Here is my teaching [calendar](https://rambowang.github.io/files/2019SEStatLearn/teachcalendar.pdf)
+The course consists of 32 lessons. 2 lessons are teached in a week. The entire course consumes 16 weeks. Here is my teaching [calendar](https://rambowang.github.io/files/2019SEStatLearn/teachcalendar.pdf).
 
 Lesson 1: Introduction to statistical learning 
 
