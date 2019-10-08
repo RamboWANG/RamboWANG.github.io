@@ -17,8 +17,10 @@ Lesson 1: Introduction to statistical learning
 
 Lesson 2: Generic description of statistical learning algorithms
 
-Lesson 3: Uni-variate linear regression and sample mean regression [(Slides)](https://rambowang.github.io/files/2019SEStatLearn/slides3.pdf) [(plan)](https://rambowang.github.io/files/2019SEStatLearn/teachplan3.pdf)
+Lesson 3: Uni-variate linear regression and sample mean regression [(slides)](https://rambowang.github.io/files/2019SEStatLearn/slides3.pdf) [(plan)](https://rambowang.github.io/files/2019SEStatLearn/teachplan3.pdf)
 
-Lesson 4: Multi-variate linear regression [(Slides)](https://rambowang.github.io/files/2019SEStatLearn/slides4.pdf) [(plan)](https://rambowang.github.io/files/2019SEStatLearn/teachplan4.pdf)
+Lesson 4: Multi-variate linear regression [(slides)](https://rambowang.github.io/files/2019SEStatLearn/slides4.pdf) [(plan)](https://rambowang.github.io/files/2019SEStatLearn/teachplan4.pdf)
 
-Lesson 5: Estimation of the generalization error of a statistical learning algorithm [(Slides)](https://rambowang.github.io/files/2019SEStatLearn/slides5.pdf) [(plan)](https://rambowang.github.io/files/2019SEStatLearn/teachplan5.pdf)
+Lesson 5: Estimation of the generalization error of a statistical learning algorithm [(slides)](https://rambowang.github.io/files/2019SEStatLearn/slides5.pdf) [(plan)](https://rambowang.github.io/files/2019SEStatLearn/teachplan5.pdf)
+
+Latex template for assignments could be found [here](https://rambowang.github.io/files/2019SEStatLearn/assignment_template.zip).
