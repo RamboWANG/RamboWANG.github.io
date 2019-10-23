@@ -23,4 +23,8 @@ Lesson 4: Multi-variate linear regression [(slides)](https://rambowang.github.io
 
 Lesson 5: Estimation of the generalization error of a statistical learning algorithm [(slides)](https://rambowang.github.io/files/2019SEStatLearn/slides5.pdf) [(plan)](https://rambowang.github.io/files/2019SEStatLearn/teachplan5.pdf)
 
+Lesson 6: Bayes concept learning [(slides)](https://rambowang.github.io/files/2019SEStatLearn/slides6.pdf) [(plan)](https://rambowang.github.io/files/2019SEStatLearn/teachplan6.pdf)
+
+Lesson 7: Linear model selection and regularization [(slides)](https://rambowang.github.io/files/2019SEStatLearn/slides7.pdf) [(plan)](https://rambowang.github.io/files/2019SEStatLearn/teachplan7.pdf)
+
 Latex template for assignments could be found [here](https://rambowang.github.io/files/2019SEStatLearn/assignment_template.zip).
